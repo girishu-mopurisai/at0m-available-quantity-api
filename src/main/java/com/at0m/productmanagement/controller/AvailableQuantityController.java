@@ -1,6 +1,6 @@
 package com.at0m.productmanagement.controller;
 
-import com.at0m.productmanagement.model.AvailableQuantity;
+import com.at0m.common.model.AvailableQuantity;
 import com.at0m.productmanagement.service.GetAvailableQuantityService;
 import org.springframework.web.bind.annotation.*;
 
