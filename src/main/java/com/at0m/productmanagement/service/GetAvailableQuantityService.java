@@ -1,6 +1,6 @@
 package com.at0m.productmanagement.service;
 
-import com.at0m.productmanagement.model.AvailableQuantity;
+import com.at0m.common.model.AvailableQuantity;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.stereotype.Service;
 
